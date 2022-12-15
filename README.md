@@ -68,11 +68,9 @@ ML 모델은 winning method 중 가장 큰 비중을 차지한 LGBM 고정
 9. 결과 정리 
 9_1. 각 Case 별로 나온 결과를 WRMSSE, RMSE 그리고 training time cost 기준으로 평가 및 정리
 
-### 수행결과
-- 본 프로젝트는 “Yang S., Lin C., Liao K., et al.: Progressively complementary network for fisheye image rectification using appearance flow. In: IEEE/CVF conference on computer vision and pattern recognition (2021)” 논문에서 소개된 딥러닝 모델(PCN)과 데이터셋(Places2, 256 * 256 image)을 이용해 진행했다.
-- Ground Truth 와 fisheye image 를 training set 각각 40000 장씩, testset 은 각각 10000 장씩 생성해 총 30 epoch 을 학습하는 걸 기준으로 실험들을 진행했다.
 
 #### 과제수행 결과
+![wrmsse](https://user-images.githubusercontent.com/101444722/207885762-5de5af7b-3014-450a-8866-816165afa811.png)
 
 
 #### 최종결과물 주요특징 및 설명
