@@ -70,7 +70,7 @@ ML 모델은 winning method 중 가장 큰 비중을 차지한 LGBM 고정
 
 
 #### 과제수행 결과
-![wrmsse](https://user-images.githubusercontent.com/101444722/207885762-5de5af7b-3014-450a-8866-816165afa811.png)
+![rmse](https://user-images.githubusercontent.com/101444722/207885911-411917cd-268c-4e98-b7c5-0b916a61f389.png)  ![wrmsse](https://user-images.githubusercontent.com/101444722/207885762-5de5af7b-3014-450a-8866-816165afa811.png)
 
 
 #### 최종결과물 주요특징 및 설명
